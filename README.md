@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=bluebird&fontSize=70&fontAlign=80&fontAlignY=40&color=gradient&customColorList=1,2" />
+
 ## 자기소개 🕶 
 - ☕️ 저는 현재 회사를 다니지 않고, 카페에서 아르바이트를 하고 있습니다.
 - 📒 현재 공부하고 있는 것은 C, Modern C++, 자료구조, 알고리즘에 대해 공부하고 있습니다.
