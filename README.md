@@ -5,5 +5,5 @@
 - 🪄 C, C++, 자료구조, 알고리즘, 리눅스, 네트워크, 임베디드, 운영체제, 리버싱에서 프로가 되는 것이 꿈입니다.
 - 📫 이메일 : bludbird999280@gmail.com
 - 🎮 블로그 : <a href="http://bluebirdLogSomething.tistory.com">bluebirdLogSomething</a>
-- 💣 재미있는 사실 : ISFJ, 음악을 좋아하고 혼자 있는 것에 익숙함
+- 💣 재미있는 사실 : ISFJ, 음악을 좋아하고 배우는 것을 좋아합니다
 
