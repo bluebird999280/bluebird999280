@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=bluebird&fontSize=70&fontAlign=80&fontAlignY=40&color=gradient&customColorList=1,2" />
+[![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)](https://shields.io/) [![General badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://shields.io/)
 
 ## 자기소개 🕶 
 - ☕️ 저는 현재 회사를 다니지 않고, 카페에서 아르바이트를 하고 있습니다.
